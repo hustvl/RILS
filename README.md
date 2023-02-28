@@ -1,6 +1,13 @@
-# Masked Visual Reconstruction in Language Semantic Space
+# RILS: Masked Visual Reconstruction in Language Semantic Space
 
-This repo includes the official implementation of [*Masked Visual Reconstruction in Language Semantic Space*](https://arxiv.org/abs/2301.06958)
+This repo includes the official implementation of [*RILS: Masked Visual Reconstruction in Language Semantic Space*](https://arxiv.org/abs/2301.06958)
+
+## News
+- `2023/01/21`: RILS is accepted by CVPR 2023! Congratulations and thanks to my all co-authors!
+
+## Catalog
+- [ ] Code & Checkpoints Release
+- [x] Initialization
 
 ## Citation
 

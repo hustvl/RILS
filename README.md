@@ -9,6 +9,10 @@ This repo includes the official implementation of [*RILS: Masked Visual Reconstr
 - [ ] Code & Checkpoints Release
 - [x] Initialization
 
+# Acknowledgement
+
+Part of this code is borrowed from ```[SLIP](https://github.com/facebookresearch/slip)```, ```[MAE](https://github.com/facebookresearch/mae)``` and ```[BEiT](https://github.com/microsoft/unilm/tree/master/beit)```, thanks for their awesome work!
+
 ## Citation
 
 If you find our project helpful to your research, please star and cite our paper: 
